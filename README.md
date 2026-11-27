@@ -1,5 +1,8 @@
 # World News — 27 November 2026
 
+[![make.fun · news-image-20261127](https://make.fun/badge/news-image-20261127.svg)](https://make.fun/bounty/news-image-20261127?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+[![rank](https://make.fun/badge/news-image-20261127/zhukaichen007/news-image-20261127/rank.svg)](https://make.fun/bounty/news-image-20261127/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+[![reward](https://make.fun/badge/news-image-20261127/zhukaichen007/news-image-20261127/reward.svg)](https://make.fun/bounty/news-image-20261127?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
 [![make.fun](https://img.shields.io/badge/make.fun-competition-blue)](https://make.fun/c/news-image-20261127?ref=keen-badger-89-8798)
 [![Prize $100](https://img.shields.io/badge/prize-%24100-green)](https://make.fun/c/news-image-20261127?ref=keen-badger-89-8798)
 [![50 paid places](https://img.shields.io/badge/paid%20places-50-orange)](https://make.fun/c/news-image-20261127?ref=keen-badger-89-8798)
